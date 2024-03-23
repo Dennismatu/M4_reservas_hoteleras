@@ -1,0 +1,27 @@
+{
+  "name": "proyecto-4---reservas-hoteleras",
+  "version": "1.0.0",
+  "description": "API Rest Reservas Hoteleras",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "Proyecto4",
+    "NodeJS",
+    "Express",
+    "Nodemon",
+    "API"
+  ],
+  "author": "Dennis Hernandez",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.1",
+    "nodemon": "^3.1.0",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0"
+  }
+}
