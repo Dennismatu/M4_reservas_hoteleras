@@ -12,3 +12,9 @@ todos los parametros necesarios para la creación de la reservación.
 
 El resultado fue exitoso y se muestra a continuación.
 ![imagen](https://github.com/Dennismatu/M4_reservas_hoteleras/assets/13985896/9c2eaa58-a14d-4237-981b-13f46246cee8)
+
+
+Para este proyecto de igual manera se uso la plataforma Render.com para cargar el poryecto y tenerlo disponible 
+para consulta siempre en línea.
+
+Si quieres hechar un vistazo puedes visitar la siguiente liga: <a href="https://m4-reservas-hoteleras.onrender.com">Proyecto 4</a>
